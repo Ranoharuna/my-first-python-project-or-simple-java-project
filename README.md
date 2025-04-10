@@ -3,5 +3,7 @@
 This is a basic Python script that prints a welcome message to the terminal.
 
 ## Run the Code
+💡 Use the following command:
 
-Use the following command:
+```bash
+python main.py
